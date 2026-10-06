@@ -1,14 +1,22 @@
 baseURL = "https://medkuldeepai.github.io/"
 locale = "en-US"
 title = "Kuldeep Varma"
+
 theme = "blowfish"
 
 [params]
 description = "MBBS Doctor | Medical AI Researcher | Computer Vision Enthusiast"
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true 
+
+
 [[menu.main]]
-name = "About"
-url = "/about/"
+name = "CV"
+url = "/cv/"
 weight = 10
 
 [[menu.main]]
@@ -22,11 +30,21 @@ url = "/publications/"
 weight = 30
 
 [[menu.main]]
+name = "Research"
+url = "/Research/"
+weight = 40
+
+[[menu.main]]
 name = "Blog"
 url = "/blog/"
-weight = 40
+weight = 50
+
+[[menu.main]]
+name = "YouTube"
+url = "/youtube/"
+weight = 60
 
 [[menu.main]]
 name = "Contact"
 url = "/contact/"
-weight = 50
+weight = 70

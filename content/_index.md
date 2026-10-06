@@ -1,66 +1,39 @@
----
-title: "Home"
----
 
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 
-Medical Doctor | Medical AI Researcher | Computer Vision & Healthcare AI
+  <img src="/images/profile.jpg"
+       alt="Kuldeep Varma"
+       width="240"
+       height="240"
+       style="border-radius: 50%; object-fit: cover;">
 
-I am a medical doctor with over five years of clinical experience and a researcher working at the intersection of medicine, artificial intelligence, and computer vision.
+  <div>
+    <h3>Dr. Kuldeep Varma</h3>
+    <h4>MMST-2023 (IIT Kharagpur)</h4>
+    <h4>MBBS-2011 (G.M.C. Nagpur)</h4>
+  </div>
 
-My research focuses on medical imaging, self-supervised learning, surgical video understanding, multimodal AI, and clinically impactful machine learning systems. I am currently affiliated with the Kharagpur Learning, Imaging and Visualization (KLIV) Research Group at IIT Kharagpur.
+</div>
 
----
-
-## Research Interests
-
-- Medical AI
-- Computer Vision
-- Surgical Video Understanding
-- Self-Supervised Learning
-- Medical Image Analysis
-- Foundation Models for Healthcare
-- Bioinformatics
+<p><strong>Medical Doctor | Medical AI Researcher</strong></p>
 
 ---
+I created this website as a central platform to share my work, research, and professional journey, while providing interested readers with an overview of my background, projects, and experience.
 
-## Current Research
+In addition, I plan to write about important developments in the medical technology and AI ecosystem. Rather than simply reporting news, I hope to provide my perspective on these developments, discuss their potential impact, and explain the underlying concepts in an accessible way.
 
-### Graph-Based Label Propagation for Surgical Videos
+Through this website, I hope to engage with what I call "<strong>key people</strong>"—individuals who are curious beyond the confines of a single discipline and enjoy exploring ideas across traditional boundaries. They may come from different backgrounds and possess varying levels of expertise, but they all share a desire to explore, learn, think across boundaries, and connect ideas from different domains
 
-Developing training-free annotation propagation methods using frozen self-supervised representations and graph-based learning techniques for efficient surgical video annotation.
 
-### Medical Imaging and Computer Vision
 
-Exploring data-efficient approaches for medical image understanding, segmentation, classification, and clinical decision support systems.
+<img src="/images/Key_people.jpg"
+     alt="Key People"
+     width="440"
+     style="display:block; margin:auto; border-radius:10px;">
+     
+My own interests span medicine, machine learning, computer vision, bioinformatics, engineering, finance, and technology. As a result, many of the topics discussed here will reflect an interdisciplinary perspective and a belief that meaningful innovation often emerges at the intersection of different domains.
 
-### Bioinformatics and Translational AI
+<strong>If you find something useful, interesting, or thought-provoking here, feel free to reach out, connect, or start a conversation.<strong>
 
-Investigating computational methods for disease understanding, biomarker discovery, and clinically relevant healthcare applications.
 
----
 
-## Highlights
-
-- Research Intern, KLIV Research Group, IIT Kharagpur
-- Authoring a computer vision conference manuscript
-- GATE Biomedical Engineering AIR 82
-- 5+ Years of Clinical Experience
-- Medical Officer, IIT Kharagpur Health System
-
----
-
-## Featured Projects
-
-### Surgical Video Annotation using Self-Supervised Learning
-
-Training-free graph-based annotation propagation framework using frozen SSL representations for surgical video understanding.
-
-### Interstitial Lung Disease Bioinformatics Analysis
-
-Network-based identification of fibrosis-related genes and pathways using enrichment analysis and graph analytics.
-
----
-
-## Mission
-
-To bridge medicine and artificial intelligence by building clinically useful, trustworthy, and scalable AI systems that improve healthcare delivery and patient outcomes.
